@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Dinesh's - Notes App</title>
+    <title>Nawria's - Notes App</title>
     <style>
         body {
             font-family: "Segoe UI", Arial, sans-serif;
