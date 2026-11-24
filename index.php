@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Satyam - Notes App</title>
+    <title>Dinesh's - Notes App</title>
     <style>
         body {
             font-family: "Segoe UI", Arial, sans-serif;
@@ -28,7 +28,7 @@
         @keyframes fadeIn {
             from {opacity: 0; transform: translateY(20px);}
             to {opacity: 1; transform: translateY(0);}
-        }
+        }i
 
         h1 {
             text-align: center;
